@@ -8,6 +8,7 @@ Personal Information:
 
 Name: Aryan Jain
 Hometown: Chhindwara, Madhya Pradesh
+Birthdate: 28 December, 97'
 _________________
 
 
@@ -28,3 +29,5 @@ Hobbies :
 	-Books.
 
 __________________
+
+	
