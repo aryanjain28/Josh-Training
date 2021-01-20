@@ -1,2 +1,2 @@
 #UI code for payment
-# Code Improvements via Master branch
+# Code for registration improved via Master branch
